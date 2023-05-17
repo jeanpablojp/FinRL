@@ -21,7 +21,7 @@ pyfolio
 
 # testing requirements
 pytest
-ray[default]
+ray[default]==1.13.0
 ray[tune]
 
 # Model Building Requirements
